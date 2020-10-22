@@ -1,0 +1,10 @@
+name: BedWars_by_AronikTV
+version: 1.9
+author: AronikTV
+main: de.AronikTV.bedwars.main.BedWars
+
+commands:
+      bedwars:
+        aliases: [bw]
+      start:
+      forcemap:
